@@ -95,7 +95,7 @@ Print and puts format differently on the console, so try both and see if you can
 
 Doing this will be a little repetitive. You may want a way to loop through code.
 
-One of the most precise ways of doing this is with a for-in loop. Feel free to catch a refresher of that concept from our <a href="https://github.com/upperlinecode/intro-se-1-methods-leap-year#for-in-loops">leap year lab</a>
+One of the most precise ways of doing this is with a for-in loop. Feel free to catch a refresher of that concept from our <a href="https://github.com/upperlinecode/intro-se-1-methods-leap-year#for-in-loops">leap year lab</a>.
 
 ### Times loops
 
